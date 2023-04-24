@@ -35,9 +35,6 @@
               },
               "defaultConfiguration": {
                 "level": "warning"
-              },
-              "help": {
-                "text": "[More Info](https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/compute_subnetwork)"
               }
             },
             {
