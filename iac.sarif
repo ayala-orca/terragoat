@@ -2253,7 +2253,7 @@
           "kind": "fail",
           "message": {
             "text": "Recommendation: 'aws_s3_bucket' to have 'server_side_encryption_configuration' associated",
-            "markdowm": "**Recommendation**: 'aws_s3_bucket' to have 'server_side_encryption_configuration' associated"
+            "markdown": "**Recommendation**: 'aws_s3_bucket' to have 'server_side_encryption_configuration' associated"
           },
           "locations": [
             {
