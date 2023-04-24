@@ -14,15 +14,11 @@
               "shortDescription": {
                 "text": "S3 Bucket SSE Disabled"
               },
-              "fullDescription": {
-                "text": "If algorithm is AES256 then the master key is null, empty or undefined, otherwise the master key is required"
-              },
               "defaultConfiguration": {
                 "level": "error"
               },
               "help": {
-                "text": "bla",
-                "markdown": "[More Info markdown](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket#server_side_encryption_configuration)"
+                "markdown": "**Description**: If algorithm is AES256 then the master key is null, empty or undefined, otherwise the master key is required\n[More Info markdown](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket#server_side_encryption_configuration)"
               }
             },
             {
