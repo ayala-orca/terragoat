@@ -19,7 +19,7 @@
               },
               "help": {
                 "text": "bla",
-                "markdown": "**Description**: If algorithm is AES256 then the master key is null, empty or undefined, otherwise the master key is required\n[More Info markdown](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket#server_side_encryption_configuration)"
+                "markdown": "**Description**: If algorithm is AES256 then the master key is null, empty or undefined, otherwise the master key is required.\n[More Info](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket#server_side_encryption_configuration)"
               }
             },
             {
@@ -2252,7 +2252,8 @@
           "ruleIndex": 0,
           "kind": "fail",
           "message": {
-            "text": "Recommendation: 'aws_s3_bucket' to have 'server_side_encryption_configuration' associated"
+            "text": "Recommendation: 'aws_s3_bucket' to have 'server_side_encryption_configuration' associated",
+            "markdowm": "**Recommendation**: 'aws_s3_bucket' to have 'server_side_encryption_configuration' associated"
           },
           "locations": [
             {
