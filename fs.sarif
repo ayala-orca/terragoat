@@ -1,0 +1,2003 @@
+{
+  "$schema": "https://raw.githubusercontent.com/oasis-tcs/sarif-spec/master/Schemata/sarif-schema-2.1.0.json",
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "Orca Shift-Left Security",
+          "version": "OrcaScanCli/testing",
+          "rules": [
+            {
+              "id": "CVE-2019-12402",
+              "name": "org.apache.commons:commons-compress (CVE-2019-12402)",
+              "shortDescription": {
+                "text": "org.apache.commons:commons-compress (CVE-2019-12402)"
+              },
+              "fullDescription": {
+                "text": "org.apache.commons:commons-compress vulnerability (CVE-2019-12402)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2021-35515",
+              "name": "org.apache.commons:commons-compress (CVE-2021-35515)",
+              "shortDescription": {
+                "text": "org.apache.commons:commons-compress (CVE-2021-35515)"
+              },
+              "fullDescription": {
+                "text": "org.apache.commons:commons-compress vulnerability (CVE-2021-35515)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2021-35516",
+              "name": "org.apache.commons:commons-compress (CVE-2021-35516)",
+              "shortDescription": {
+                "text": "org.apache.commons:commons-compress (CVE-2021-35516)"
+              },
+              "fullDescription": {
+                "text": "org.apache.commons:commons-compress vulnerability (CVE-2021-35516)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2021-35517",
+              "name": "org.apache.commons:commons-compress (CVE-2021-35517)",
+              "shortDescription": {
+                "text": "org.apache.commons:commons-compress (CVE-2021-35517)"
+              },
+              "fullDescription": {
+                "text": "org.apache.commons:commons-compress vulnerability (CVE-2021-35517)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2021-36090",
+              "name": "org.apache.commons:commons-compress (CVE-2021-36090)",
+              "shortDescription": {
+                "text": "org.apache.commons:commons-compress (CVE-2021-36090)"
+              },
+              "fullDescription": {
+                "text": "org.apache.commons:commons-compress vulnerability (CVE-2021-36090)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2019-19844",
+              "name": "django (CVE-2019-19844)",
+              "shortDescription": {
+                "text": "django (CVE-2019-19844)"
+              },
+              "fullDescription": {
+                "text": "django vulnerability (CVE-2019-19844)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2011-0698",
+              "name": "django (CVE-2011-0698)",
+              "shortDescription": {
+                "text": "django (CVE-2011-0698)"
+              },
+              "fullDescription": {
+                "text": "django vulnerability (CVE-2011-0698)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2014-0474",
+              "name": "django (CVE-2014-0474)",
+              "shortDescription": {
+                "text": "django (CVE-2014-0474)"
+              },
+              "fullDescription": {
+                "text": "django vulnerability (CVE-2014-0474)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2015-5143",
+              "name": "django (CVE-2015-5143)",
+              "shortDescription": {
+                "text": "django (CVE-2015-5143)"
+              },
+              "fullDescription": {
+                "text": "django vulnerability (CVE-2015-5143)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2016-2512",
+              "name": "django (CVE-2016-2512)",
+              "shortDescription": {
+                "text": "django (CVE-2016-2512)"
+              },
+              "fullDescription": {
+                "text": "django vulnerability (CVE-2016-2512)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2016-7401",
+              "name": "django (CVE-2016-7401)",
+              "shortDescription": {
+                "text": "django (CVE-2016-7401)"
+              },
+              "fullDescription": {
+                "text": "django vulnerability (CVE-2016-7401)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2016-9014",
+              "name": "django (CVE-2016-9014)",
+              "shortDescription": {
+                "text": "django (CVE-2016-9014)"
+              },
+              "fullDescription": {
+                "text": "django vulnerability (CVE-2016-9014)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2020-36518",
+              "name": "com.fasterxml.jackson.core:jackson-databind (CVE-2020-36518)",
+              "shortDescription": {
+                "text": "com.fasterxml.jackson.core:jackson-databind (CVE-2020-36518)"
+              },
+              "fullDescription": {
+                "text": "com.fasterxml.jackson.core:jackson-databind vulnerability (CVE-2020-36518)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2021-46877",
+              "name": "com.fasterxml.jackson.core:jackson-databind (CVE-2021-46877)",
+              "shortDescription": {
+                "text": "com.fasterxml.jackson.core:jackson-databind (CVE-2021-46877)"
+              },
+              "fullDescription": {
+                "text": "com.fasterxml.jackson.core:jackson-databind vulnerability (CVE-2021-46877)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-42003",
+              "name": "com.fasterxml.jackson.core:jackson-databind (CVE-2022-42003)",
+              "shortDescription": {
+                "text": "com.fasterxml.jackson.core:jackson-databind (CVE-2022-42003)"
+              },
+              "fullDescription": {
+                "text": "com.fasterxml.jackson.core:jackson-databind vulnerability (CVE-2022-42003)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-42004",
+              "name": "com.fasterxml.jackson.core:jackson-databind (CVE-2022-42004)",
+              "shortDescription": {
+                "text": "com.fasterxml.jackson.core:jackson-databind (CVE-2022-42004)"
+              },
+              "fullDescription": {
+                "text": "com.fasterxml.jackson.core:jackson-databind vulnerability (CVE-2022-42004)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2021-44228",
+              "name": "org.apache.logging.log4j:log4j-core (CVE-2021-44228)",
+              "shortDescription": {
+                "text": "org.apache.logging.log4j:log4j-core (CVE-2021-44228)"
+              },
+              "fullDescription": {
+                "text": "org.apache.logging.log4j:log4j-core vulnerability (CVE-2021-44228)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2021-45046",
+              "name": "org.apache.logging.log4j:log4j-core (CVE-2021-45046)",
+              "shortDescription": {
+                "text": "org.apache.logging.log4j:log4j-core (CVE-2021-45046)"
+              },
+              "fullDescription": {
+                "text": "org.apache.logging.log4j:log4j-core vulnerability (CVE-2021-45046)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2021-22118",
+              "name": "org.springframework:spring-core (CVE-2021-22118)",
+              "shortDescription": {
+                "text": "org.springframework:spring-core (CVE-2021-22118)"
+              },
+              "fullDescription": {
+                "text": "org.springframework:spring-core vulnerability (CVE-2021-22118)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2023-20863",
+              "name": "org.springframework:spring-core (CVE-2023-20863)",
+              "shortDescription": {
+                "text": "org.springframework:spring-core (CVE-2023-20863)"
+              },
+              "fullDescription": {
+                "text": "org.springframework:spring-core vulnerability (CVE-2023-20863)"
+              },
+              "defaultConfiguration": {
+                "level": "warning"
+              }
+            },
+            {
+              "id": "CVE-2022-39353",
+              "name": "xmldom (CVE-2022-39353)",
+              "shortDescription": {
+                "text": "xmldom (CVE-2022-39353)"
+              },
+              "fullDescription": {
+                "text": "xmldom vulnerability (CVE-2022-39353)"
+              },
+              "defaultConfiguration": {
+                "level": "warning"
+              }
+            },
+            {
+              "id": "CVE-2021-43138",
+              "name": "async (CVE-2021-43138)",
+              "shortDescription": {
+                "text": "async (CVE-2021-43138)"
+              },
+              "fullDescription": {
+                "text": "async vulnerability (CVE-2021-43138)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-38900",
+              "name": "decode-uri-component (CVE-2022-38900)",
+              "shortDescription": {
+                "text": "decode-uri-component (CVE-2022-38900)"
+              },
+              "fullDescription": {
+                "text": "decode-uri-component vulnerability (CVE-2022-38900)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-21676",
+              "name": "engine.io (CVE-2022-21676)",
+              "shortDescription": {
+                "text": "engine.io (CVE-2022-21676)"
+              },
+              "fullDescription": {
+                "text": "engine.io vulnerability (CVE-2022-21676)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-0155",
+              "name": "follow-redirects (CVE-2022-0155)",
+              "shortDescription": {
+                "text": "follow-redirects (CVE-2022-0155)"
+              },
+              "fullDescription": {
+                "text": "follow-redirects vulnerability (CVE-2022-0155)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-25881",
+              "name": "http-cache-semantics (CVE-2022-25881)",
+              "shortDescription": {
+                "text": "http-cache-semantics (CVE-2022-25881)"
+              },
+              "fullDescription": {
+                "text": "http-cache-semantics vulnerability (CVE-2022-25881)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-46175",
+              "name": "json5 (CVE-2022-46175)",
+              "shortDescription": {
+                "text": "json5 (CVE-2022-46175)"
+              },
+              "fullDescription": {
+                "text": "json5 vulnerability (CVE-2022-46175)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-48285",
+              "name": "jszip (CVE-2022-48285)",
+              "shortDescription": {
+                "text": "jszip (CVE-2022-48285)"
+              },
+              "fullDescription": {
+                "text": "jszip vulnerability (CVE-2022-48285)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-37601",
+              "name": "loader-utils (CVE-2022-37601)",
+              "shortDescription": {
+                "text": "loader-utils (CVE-2022-37601)"
+              },
+              "fullDescription": {
+                "text": "loader-utils vulnerability (CVE-2022-37601)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-37599",
+              "name": "loader-utils (CVE-2022-37599)",
+              "shortDescription": {
+                "text": "loader-utils (CVE-2022-37599)"
+              },
+              "fullDescription": {
+                "text": "loader-utils vulnerability (CVE-2022-37599)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-37603",
+              "name": "loader-utils (CVE-2022-37603)",
+              "shortDescription": {
+                "text": "loader-utils (CVE-2022-37603)"
+              },
+              "fullDescription": {
+                "text": "loader-utils vulnerability (CVE-2022-37603)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-3517",
+              "name": "minimatch (CVE-2022-3517)",
+              "shortDescription": {
+                "text": "minimatch (CVE-2022-3517)"
+              },
+              "fullDescription": {
+                "text": "minimatch vulnerability (CVE-2022-3517)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2021-44906",
+              "name": "minimist (CVE-2021-44906)",
+              "shortDescription": {
+                "text": "minimist (CVE-2021-44906)"
+              },
+              "fullDescription": {
+                "text": "minimist vulnerability (CVE-2021-44906)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-0235",
+              "name": "node-fetch (CVE-2022-0235)",
+              "shortDescription": {
+                "text": "node-fetch (CVE-2022-0235)"
+              },
+              "fullDescription": {
+                "text": "node-fetch vulnerability (CVE-2022-0235)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-24771",
+              "name": "node-forge (CVE-2022-24771)",
+              "shortDescription": {
+                "text": "node-forge (CVE-2022-24771)"
+              },
+              "fullDescription": {
+                "text": "node-forge vulnerability (CVE-2022-24771)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-24772",
+              "name": "node-forge (CVE-2022-24772)",
+              "shortDescription": {
+                "text": "node-forge (CVE-2022-24772)"
+              },
+              "fullDescription": {
+                "text": "node-forge vulnerability (CVE-2022-24772)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-24999",
+              "name": "qs (CVE-2022-24999)",
+              "shortDescription": {
+                "text": "qs (CVE-2022-24999)"
+              },
+              "fullDescription": {
+                "text": "qs vulnerability (CVE-2022-24999)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-0144",
+              "name": "shelljs (CVE-2022-0144)",
+              "shortDescription": {
+                "text": "shelljs (CVE-2022-0144)"
+              },
+              "fullDescription": {
+                "text": "shelljs vulnerability (CVE-2022-0144)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-2421",
+              "name": "socket.io-parser (CVE-2022-2421)",
+              "shortDescription": {
+                "text": "socket.io-parser (CVE-2022-2421)"
+              },
+              "fullDescription": {
+                "text": "socket.io-parser vulnerability (CVE-2022-2421)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-25858",
+              "name": "terser (CVE-2022-25858)",
+              "shortDescription": {
+                "text": "terser (CVE-2022-25858)"
+              },
+              "fullDescription": {
+                "text": "terser vulnerability (CVE-2022-25858)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2022-25927",
+              "name": "ua-parser-js (CVE-2022-25927)",
+              "shortDescription": {
+                "text": "ua-parser-js (CVE-2022-25927)"
+              },
+              "fullDescription": {
+                "text": "ua-parser-js vulnerability (CVE-2022-25927)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2023-28154",
+              "name": "webpack (CVE-2023-28154)",
+              "shortDescription": {
+                "text": "webpack (CVE-2023-28154)"
+              },
+              "fullDescription": {
+                "text": "webpack vulnerability (CVE-2023-28154)"
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "CVE-2023-0842",
+              "name": "xml2js (CVE-2023-0842)",
+              "shortDescription": {
+                "text": "xml2js (CVE-2023-0842)"
+              },
+              "fullDescription": {
+                "text": "xml2js vulnerability (CVE-2023-0842)"
+              },
+              "defaultConfiguration": {
+                "level": "warning"
+              }
+            },
+            {
+              "id": "aws_access_key_id",
+              "name": "AWS Access Key ID",
+              "shortDescription": {
+                "text": "AWS Access Key ID"
+              },
+              "fullDescription": {
+                "text": "Access keys are long-term credentials for an IAM user or the AWS account root user. You can use access keys to sign programmatic requests to the AWS CLI or AWS API (directly or using the AWS SDK)."
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            },
+            {
+              "id": "aws_secret_access_key",
+              "name": "AWS Secret Access Key",
+              "shortDescription": {
+                "text": "AWS Secret Access Key"
+              },
+              "fullDescription": {
+                "text": "Access keys are long-term credentials for an IAM user or the AWS account root user. You can use access keys to sign programmatic requests to the AWS CLI or AWS API (directly or using the AWS SDK)."
+              },
+              "defaultConfiguration": {
+                "level": "error"
+              }
+            }
+          ]
+        }
+      },
+      "results": [
+        {
+          "ruleId": "CVE-2019-12402",
+          "ruleIndex": 0,
+          "kind": "fail",
+          "message": {
+            "text": "org.apache.commons:commons-compress (CVE-2019-12402)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 1.15\nFixed version: 1.19"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-35515",
+          "ruleIndex": 1,
+          "kind": "fail",
+          "message": {
+            "text": "org.apache.commons:commons-compress (CVE-2021-35515)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 1.15\nFixed version: 1.21"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-35516",
+          "ruleIndex": 2,
+          "kind": "fail",
+          "message": {
+            "text": "org.apache.commons:commons-compress (CVE-2021-35516)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 1.15\nFixed version: 1.21"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-35517",
+          "ruleIndex": 3,
+          "kind": "fail",
+          "message": {
+            "text": "org.apache.commons:commons-compress (CVE-2021-35517)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 1.15\nFixed version: 1.21"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-36090",
+          "ruleIndex": 4,
+          "kind": "fail",
+          "message": {
+            "text": "org.apache.commons:commons-compress (CVE-2021-36090)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 1.15\nFixed version: 1.21"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2019-19844",
+          "ruleIndex": 5,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2019-19844)\nSeverity: CRITICAL\nCVSS2 Score: 5\nCVSS3 Score: 9.8\nInstalled version: 1.2\nFixed version: 1.11.27, 2.2.9"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2011-0698",
+          "ruleIndex": 6,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2011-0698)\nSeverity: HIGH\nCVSS2 Score: 7.5\nInstalled version: 1.2\nFixed version: 1.1.4, 1.2.5"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2014-0474",
+          "ruleIndex": 7,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2014-0474)\nSeverity: HIGH\nCVSS2 Score: 10\nInstalled version: 1.2\nFixed version: 1.4.11, 1.5.6, 1.6.3"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2015-5143",
+          "ruleIndex": 8,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2015-5143)\nSeverity: HIGH\nCVSS2 Score: 7.8\nInstalled version: 1.2\nFixed version: 1.4.21, 1.7.9, 1.8.3"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2016-2512",
+          "ruleIndex": 9,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2016-2512)\nSeverity: HIGH\nCVSS2 Score: 4.3\nCVSS3 Score: 7.4\nInstalled version: 1.2\nFixed version: 1.8.10, 1.9.3"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2016-7401",
+          "ruleIndex": 10,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2016-7401)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 1.2\nFixed version: 1.8.15, 1.9.10"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2016-9014",
+          "ruleIndex": 11,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2016-9014)\nSeverity: HIGH\nCVSS2 Score: 6.8\nCVSS3 Score: 8.1\nInstalled version: 1.2\nFixed version: 1.8.16, 1.9.11, 1.10.3"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2019-19844",
+          "ruleIndex": 5,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2019-19844)\nSeverity: CRITICAL\nCVSS2 Score: 5\nCVSS3 Score: 9.8\nInstalled version: 1.2\nFixed version: 1.11.27, 2.2.9"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/.hidden/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2011-0698",
+          "ruleIndex": 6,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2011-0698)\nSeverity: HIGH\nCVSS2 Score: 7.5\nInstalled version: 1.2\nFixed version: 1.1.4, 1.2.5"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/.hidden/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2014-0474",
+          "ruleIndex": 7,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2014-0474)\nSeverity: HIGH\nCVSS2 Score: 10\nInstalled version: 1.2\nFixed version: 1.4.11, 1.5.6, 1.6.3"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/.hidden/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2015-5143",
+          "ruleIndex": 8,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2015-5143)\nSeverity: HIGH\nCVSS2 Score: 7.8\nInstalled version: 1.2\nFixed version: 1.4.21, 1.7.9, 1.8.3"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/.hidden/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2016-2512",
+          "ruleIndex": 9,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2016-2512)\nSeverity: HIGH\nCVSS2 Score: 4.3\nCVSS3 Score: 7.4\nInstalled version: 1.2\nFixed version: 1.8.10, 1.9.3"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/.hidden/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2016-7401",
+          "ruleIndex": 10,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2016-7401)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 1.2\nFixed version: 1.8.15, 1.9.10"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/.hidden/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2016-9014",
+          "ruleIndex": 11,
+          "kind": "fail",
+          "message": {
+            "text": "django (CVE-2016-9014)\nSeverity: HIGH\nCVSS2 Score: 6.8\nCVSS3 Score: 8.1\nInstalled version: 1.2\nFixed version: 1.8.16, 1.9.11, 1.10.3"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/.hidden/requirements.txt"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2020-36518",
+          "ruleIndex": 12,
+          "kind": "fail",
+          "message": {
+            "text": "com.fasterxml.jackson.core:jackson-databind (CVE-2020-36518)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 2.12.4\nFixed version: 2.12.6.1, 2.13.2.1"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-46877",
+          "ruleIndex": 13,
+          "kind": "fail",
+          "message": {
+            "text": "com.fasterxml.jackson.core:jackson-databind (CVE-2021-46877)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 2.12.4\nFixed version: 2.12.6, 2.13.1"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-42003",
+          "ruleIndex": 14,
+          "kind": "fail",
+          "message": {
+            "text": "com.fasterxml.jackson.core:jackson-databind (CVE-2022-42003)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 2.12.4\nFixed version: 2.12.7.1, 2.13.4.1"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-42004",
+          "ruleIndex": 15,
+          "kind": "fail",
+          "message": {
+            "text": "com.fasterxml.jackson.core:jackson-databind (CVE-2022-42004)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 2.12.4\nFixed version: 2.12.7.1, 2.13.4"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-35515",
+          "ruleIndex": 1,
+          "kind": "fail",
+          "message": {
+            "text": "org.apache.commons:commons-compress (CVE-2021-35515)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 1.20\nFixed version: 1.21"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-35516",
+          "ruleIndex": 2,
+          "kind": "fail",
+          "message": {
+            "text": "org.apache.commons:commons-compress (CVE-2021-35516)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 1.20\nFixed version: 1.21"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-35517",
+          "ruleIndex": 3,
+          "kind": "fail",
+          "message": {
+            "text": "org.apache.commons:commons-compress (CVE-2021-35517)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 1.20\nFixed version: 1.21"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-36090",
+          "ruleIndex": 4,
+          "kind": "fail",
+          "message": {
+            "text": "org.apache.commons:commons-compress (CVE-2021-36090)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 1.20\nFixed version: 1.21"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-44228",
+          "ruleIndex": 16,
+          "kind": "fail",
+          "message": {
+            "text": "org.apache.logging.log4j:log4j-core (CVE-2021-44228)\nSeverity: CRITICAL\nCVSS2 Score: 9.3\nCVSS3 Score: 10\nInstalled version: 2.14.0\nFixed version: 2.3.2, 2.12.2, 2.15.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-45046",
+          "ruleIndex": 17,
+          "kind": "fail",
+          "message": {
+            "text": "org.apache.logging.log4j:log4j-core (CVE-2021-45046)\nSeverity: CRITICAL\nCVSS2 Score: 5.1\nCVSS3 Score: 9\nInstalled version: 2.14.0\nFixed version: 2.12.3, 2.16.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-22118",
+          "ruleIndex": 18,
+          "kind": "fail",
+          "message": {
+            "text": "org.springframework:spring-core (CVE-2021-22118)\nSeverity: HIGH\nCVSS2 Score: 4.6\nCVSS3 Score: 7.8\nInstalled version: 5.3.0\nFixed version: 5.2.15, 5.3.7"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2023-20863",
+          "ruleIndex": 19,
+          "kind": "fail",
+          "message": {
+            "text": "org.springframework:spring-core (CVE-2023-20863)\nSeverity: HIGH\nCVSS3 Score: 6.5\nInstalled version: 5.3.0\nFixed version: 5.2.24.RELEASE, 5.3.27, 6.0.8"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/sub/pom.xml"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-39353",
+          "ruleIndex": 20,
+          "kind": "fail",
+          "message": {
+            "text": "xmldom (CVE-2022-39353)\nSeverity: CRITICAL\nCVSS3 Score: 9.8\nInstalled version: 0.5.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/twistcli_test/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-43138",
+          "ruleIndex": 21,
+          "kind": "fail",
+          "message": {
+            "text": "async (CVE-2021-43138)\nSeverity: HIGH\nCVSS2 Score: 6.8\nCVSS3 Score: 7.8\nInstalled version: 2.6.3\nFixed version: 2.6.4, 3.2.2"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-38900",
+          "ruleIndex": 22,
+          "kind": "fail",
+          "message": {
+            "text": "decode-uri-component (CVE-2022-38900)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 0.2.0\nFixed version: 0.2.1"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-21676",
+          "ruleIndex": 23,
+          "kind": "fail",
+          "message": {
+            "text": "engine.io (CVE-2022-21676)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 6.1.0\nFixed version: 6.1.1, 5.2.1, 4.1.2"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-0155",
+          "ruleIndex": 24,
+          "kind": "fail",
+          "message": {
+            "text": "follow-redirects (CVE-2022-0155)\nSeverity: HIGH\nCVSS2 Score: 4.3\nCVSS3 Score: 6.5\nInstalled version: 1.14.6\nFixed version: 1.14.7"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-25881",
+          "ruleIndex": 25,
+          "kind": "fail",
+          "message": {
+            "text": "http-cache-semantics (CVE-2022-25881)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 4.1.0\nFixed version: 4.1.1"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-46175",
+          "ruleIndex": 26,
+          "kind": "fail",
+          "message": {
+            "text": "json5 (CVE-2022-46175)\nSeverity: HIGH\nCVSS3 Score: 8.8\nInstalled version: 1.0.1\nFixed version: 1.0.2, 2.2.2"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-46175",
+          "ruleIndex": 26,
+          "kind": "fail",
+          "message": {
+            "text": "json5 (CVE-2022-46175)\nSeverity: HIGH\nCVSS3 Score: 8.8\nInstalled version: 2.2.0\nFixed version: 1.0.2, 2.2.2"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-48285",
+          "ruleIndex": 27,
+          "kind": "fail",
+          "message": {
+            "text": "jszip (CVE-2022-48285)\nSeverity: HIGH\nCVSS3 Score: 7.3\nInstalled version: 3.7.1\nFixed version: 3.8.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-37601",
+          "ruleIndex": 28,
+          "kind": "fail",
+          "message": {
+            "text": "loader-utils (CVE-2022-37601)\nSeverity: CRITICAL\nCVSS3 Score: 9.8\nInstalled version: 1.4.0\nFixed version: 1.4.1, 2.0.3"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-37599",
+          "ruleIndex": 29,
+          "kind": "fail",
+          "message": {
+            "text": "loader-utils (CVE-2022-37599)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 1.4.0\nFixed version: 3.2.1, 2.0.4, 1.4.2"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-37603",
+          "ruleIndex": 30,
+          "kind": "fail",
+          "message": {
+            "text": "loader-utils (CVE-2022-37603)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 1.4.0\nFixed version: 3.2.1, 2.0.4, 1.4.2"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-37601",
+          "ruleIndex": 28,
+          "kind": "fail",
+          "message": {
+            "text": "loader-utils (CVE-2022-37601)\nSeverity: CRITICAL\nCVSS3 Score: 9.8\nInstalled version: 2.0.2\nFixed version: 1.4.1, 2.0.3"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-37599",
+          "ruleIndex": 29,
+          "kind": "fail",
+          "message": {
+            "text": "loader-utils (CVE-2022-37599)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 2.0.2\nFixed version: 3.2.1, 2.0.4, 1.4.2"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-37603",
+          "ruleIndex": 30,
+          "kind": "fail",
+          "message": {
+            "text": "loader-utils (CVE-2022-37603)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 2.0.2\nFixed version: 3.2.1, 2.0.4, 1.4.2"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-37599",
+          "ruleIndex": 29,
+          "kind": "fail",
+          "message": {
+            "text": "loader-utils (CVE-2022-37599)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 3.0.0\nFixed version: 3.2.1, 2.0.4, 1.4.2"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-37603",
+          "ruleIndex": 30,
+          "kind": "fail",
+          "message": {
+            "text": "loader-utils (CVE-2022-37603)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 3.0.0\nFixed version: 3.2.1, 2.0.4, 1.4.2"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-3517",
+          "ruleIndex": 31,
+          "kind": "fail",
+          "message": {
+            "text": "minimatch (CVE-2022-3517)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 3.0.4\nFixed version: 3.0.5"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2021-44906",
+          "ruleIndex": 32,
+          "kind": "fail",
+          "message": {
+            "text": "minimist (CVE-2021-44906)\nSeverity: CRITICAL\nCVSS2 Score: 7.5\nCVSS3 Score: 9.8\nInstalled version: 1.2.5\nFixed version: 0.2.4, 1.2.6"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-0235",
+          "ruleIndex": 33,
+          "kind": "fail",
+          "message": {
+            "text": "node-fetch (CVE-2022-0235)\nSeverity: HIGH\nCVSS2 Score: 5.8\nCVSS3 Score: 6.1\nInstalled version: 2.6.1\nFixed version: 2.6.7, 3.1.1"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-24771",
+          "ruleIndex": 34,
+          "kind": "fail",
+          "message": {
+            "text": "node-forge (CVE-2022-24771)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 0.10.0\nFixed version: 1.3.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-24772",
+          "ruleIndex": 35,
+          "kind": "fail",
+          "message": {
+            "text": "node-forge (CVE-2022-24772)\nSeverity: HIGH\nCVSS2 Score: 5\nCVSS3 Score: 7.5\nInstalled version: 0.10.0\nFixed version: 1.3.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-24999",
+          "ruleIndex": 36,
+          "kind": "fail",
+          "message": {
+            "text": "qs (CVE-2022-24999)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 6.5.2\nFixed version: 6.2.4, 6.3.3, 6.4.1, 6.5.3, 6.6.1, 6.7.3, 6.8.3, 6.9.7, 6.10.3"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-24999",
+          "ruleIndex": 36,
+          "kind": "fail",
+          "message": {
+            "text": "qs (CVE-2022-24999)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 6.7.0\nFixed version: 6.2.4, 6.3.3, 6.4.1, 6.5.3, 6.6.1, 6.7.3, 6.8.3, 6.9.7, 6.10.3"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-0144",
+          "ruleIndex": 37,
+          "kind": "fail",
+          "message": {
+            "text": "shelljs (CVE-2022-0144)\nSeverity: HIGH\nCVSS2 Score: 3.6\nCVSS3 Score: 7.1\nInstalled version: 0.8.4\nFixed version: 0.8.5"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-2421",
+          "ruleIndex": 38,
+          "kind": "fail",
+          "message": {
+            "text": "socket.io-parser (CVE-2022-2421)\nSeverity: CRITICAL\nCVSS3 Score: 9.8\nInstalled version: 4.0.4\nFixed version: 3.4.2, 3.3.3, 4.0.5, 4.2.1"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-25858",
+          "ruleIndex": 39,
+          "kind": "fail",
+          "message": {
+            "text": "terser (CVE-2022-25858)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 5.10.0\nFixed version: 5.14.2, 4.8.1"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-25858",
+          "ruleIndex": 39,
+          "kind": "fail",
+          "message": {
+            "text": "terser (CVE-2022-25858)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 5.9.0\nFixed version: 5.14.2, 4.8.1"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-25927",
+          "ruleIndex": 40,
+          "kind": "fail",
+          "message": {
+            "text": "ua-parser-js (CVE-2022-25927)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 0.7.31\nFixed version: 1.0.33, 0.7.33"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2023-28154",
+          "ruleIndex": 41,
+          "kind": "fail",
+          "message": {
+            "text": "webpack (CVE-2023-28154)\nSeverity: HIGH\nCVSS3 Score: 9.8\nInstalled version: 5.64.1\nFixed version: 5.76.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2023-0842",
+          "ruleIndex": 42,
+          "kind": "fail",
+          "message": {
+            "text": "xml2js (CVE-2023-0842)\nSeverity: HIGH\nCVSS3 Score: 5.3\nInstalled version: 0.4.23\nFixed version: 0.5.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-39353",
+          "ruleIndex": 20,
+          "kind": "fail",
+          "message": {
+            "text": "xmldom (CVE-2022-39353)\nSeverity: CRITICAL\nCVSS3 Score: 9.8\nInstalled version: 0.5.0"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/packages/node/base/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CVE-2022-25881",
+          "ruleIndex": 25,
+          "kind": "fail",
+          "message": {
+            "text": "http-cache-semantics (CVE-2022-25881)\nSeverity: HIGH\nCVSS3 Score: 7.5\nInstalled version: 4.1.0\nFixed version: 4.1.1"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/package-lock.json"
+                },
+                "region": {
+                  "startLine": 1
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "aws_access_key_id",
+          "ruleIndex": 43,
+          "kind": "fail",
+          "message": {
+            "text": "Access keys are long-term credentials for an IAM user or the AWS account root user. You can use access keys to sign programmatic requests to the AWS CLI or AWS API (directly or using the AWS SDK)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/terraform/aws/ec2.tf"
+                },
+                "region": {
+                  "startLine": 15
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "aws_access_key_id",
+          "ruleIndex": 43,
+          "kind": "fail",
+          "message": {
+            "text": "Access keys are long-term credentials for an IAM user or the AWS account root user. You can use access keys to sign programmatic requests to the AWS CLI or AWS API (directly or using the AWS SDK)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/terraform/aws/providers.tf"
+                },
+                "region": {
+                  "startLine": 10
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "aws_access_key_id",
+          "ruleIndex": 43,
+          "kind": "fail",
+          "message": {
+            "text": "Access keys are long-term credentials for an IAM user or the AWS account root user. You can use access keys to sign programmatic requests to the AWS CLI or AWS API (directly or using the AWS SDK)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/terraform/aws/lambda.tf"
+                },
+                "region": {
+                  "startLine": 43
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "aws_secret_access_key",
+          "ruleIndex": 44,
+          "kind": "fail",
+          "message": {
+            "text": "Access keys are long-term credentials for an IAM user or the AWS account root user. You can use access keys to sign programmatic requests to the AWS CLI or AWS API (directly or using the AWS SDK)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/terraform/aws/ec2.tf"
+                },
+                "region": {
+                  "startLine": 16
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "aws_secret_access_key",
+          "ruleIndex": 44,
+          "kind": "fail",
+          "message": {
+            "text": "Access keys are long-term credentials for an IAM user or the AWS account root user. You can use access keys to sign programmatic requests to the AWS CLI or AWS API (directly or using the AWS SDK)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/terraform/aws/providers.tf"
+                },
+                "region": {
+                  "startLine": 11
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "aws_secret_access_key",
+          "ruleIndex": 44,
+          "kind": "fail",
+          "message": {
+            "text": "Access keys are long-term credentials for an IAM user or the AWS account root user. You can use access keys to sign programmatic requests to the AWS CLI or AWS API (directly or using the AWS SDK)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/Users/ayaladviri/github/terragoat/terraform/aws/lambda.tf"
+                },
+                "region": {
+                  "startLine": 44
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
