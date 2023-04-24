@@ -2252,7 +2252,7 @@
           "ruleIndex": 0,
           "kind": "fail",
           "message": {
-            "text": "Recommendation: 'aws_s3_bucket' to have 'server_side_encryption_configuration' associated",
+            "text": "Reco: 'aws_s3_bucket' to have 'server_side_encryption_configuration' associated",
             "markdown": "**Recommendation**: 'aws_s3_bucket' to have 'server_side_encryption_configuration' associated"
           },
           "locations": [
