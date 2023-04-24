@@ -21,7 +21,8 @@
                 "level": "error"
               },
               "help": {
-                "text": "[More Info](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket#server_side_encryption_configuration)"
+                "text": "bla",
+                "markdown": "[More Info markdown](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket#server_side_encryption_configuration)"
               }
             },
             {
