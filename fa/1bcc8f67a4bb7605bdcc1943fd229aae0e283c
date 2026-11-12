@@ -1,0 +1,19 @@
+tfplan.json
+  s_8e93018689fada::t_fda4f5599877bc 1-216519
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fa1bcc8f67a4bb7605bdcc1943fd229aae0e283c",
+  "prompts": {},
+  "sessions": {
+    "s_8e93018689fada": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "aff38745-bc9a-4dec-a1ec-e5e218b5a2dc",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Ayala Dviri <ayala@orca.security>"
+    }
+  }
+}
